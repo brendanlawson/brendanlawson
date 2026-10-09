@@ -5,7 +5,7 @@
 
 Hi, I'm Khoa.
 
-I'm an Information Systems student at FPT University, interested in software engineering, data, AI, and security.
+I'm an Information Systems student at FPT University, building reliable software products for enterprise use, with a focus on engineering, data, AI, and security.
 
 Currently focusing on Python, backend development, and applied research.
 

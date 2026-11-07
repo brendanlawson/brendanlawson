@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/travel-night.jpg" alt="Milky Way night sky" width="320"/>
-  <img src="assets/travel-road.jpg" alt="Travel road mirror" width="320"/>
-</p>
-
 Hi, I'm Khoa.
 
 I'm an Information Systems student at FPT University, building reliable software products for enterprise use, with a focus on engineering, data, AI, and security.
